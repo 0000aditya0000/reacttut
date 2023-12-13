@@ -10,6 +10,7 @@ function App(){
     return(
         <>
        <Form/>
+       <lucifer-first-component/>
 
         </>
     )
