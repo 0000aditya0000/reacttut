@@ -18,6 +18,12 @@ const App = () => {
     <>
     <Netflix/>
     <Amazon/>
+    <Netflix/>
+    <Amazon/>
+    <Netflix/>
+    <Amazon/>
+    <Netflix/>
+    <Amazon/>
     </>
   );
 };
